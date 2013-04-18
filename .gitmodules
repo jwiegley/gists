@@ -292,3 +292,6 @@
 [submodule "100210"]
 	path = 100210
 	url = https://gist.github.com/100210.git
+[submodule "100374"]
+	path = 100374
+	url = https://gist.github.com/100374.git
