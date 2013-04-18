@@ -25,3 +25,6 @@
 [submodule "7597"]
 	path = 7597
 	url = https://gist.github.com/7597.git
+[submodule "8086"]
+	path = 8086
+	url = https://gist.github.com/8086.git
