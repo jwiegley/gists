@@ -106,3 +106,6 @@
 [submodule "60529"]
 	path = 60529
 	url = https://gist.github.com/60529.git
+[submodule "60590"]
+	path = 60590
+	url = https://gist.github.com/60590.git
