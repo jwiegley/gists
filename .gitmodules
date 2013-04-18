@@ -28,3 +28,6 @@
 [submodule "8086"]
 	path = 8086
 	url = https://gist.github.com/8086.git
+[submodule "8088"]
+	path = 8088
+	url = https://gist.github.com/8088.git
